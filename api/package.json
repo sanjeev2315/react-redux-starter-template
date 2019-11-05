@@ -27,7 +27,7 @@
     "body-parser": "^1.17.1",
     "compression": "^1.6.2",
     "cors": "^2.8.3",
-    "eslint": "^3.19.0",
+    "eslint": "^4.18.2",
     "feathers": "^2.1.1",
     "feathers-configuration": "^0.4.1",
     "feathers-errors": "^2.6.3",
